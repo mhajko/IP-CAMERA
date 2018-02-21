@@ -1,0 +1,15 @@
+PODS:
+  - MJPEGStreamLib (0.2.0)
+  - Networking (3.0.3)
+
+DEPENDENCIES:
+  - MJPEGStreamLib
+  - Networking (~> 3)
+
+SPEC CHECKSUMS:
+  MJPEGStreamLib: b6369fb6370413b9f76ef0df2c1cac985ee34bfa
+  Networking: e2c42013296d093e4249f8247acb08e36958a11a
+
+PODFILE CHECKSUM: 407483ddf37f8c70a3a460550885f9fb6989767c
+
+COCOAPODS: 1.4.0
